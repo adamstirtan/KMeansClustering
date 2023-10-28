@@ -1,6 +1,6 @@
 # K-Means Clustering in C# with Flower Data
 
-Welcome to the K-Means Clustering in C# with Flower Data project! This repository contains the source code and article for understanding and implementing K-Means Clustering using C# with a real-world flower dataset. The article provides a step-by-step guide, and the code allows you to experiment with K-Means Clustering and data visualization in Google Colab.
+This repository contains the source code and article for understanding and implementing K-Means Clustering using C# with an example flower dataset from the [Microsoft Learn article on Clustering](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/7-clustering). The article provides a step-by-step guide, and the code allows you to experiment with K-Means Clustering and data visualization in Google Colab.
 
 <img width="150" alt="flowers" src="https://github.com/adamstirtan/KMeansClustering/assets/9989813/9db15ab7-fd80-447e-8a22-f19f1cea1d1f">
 
